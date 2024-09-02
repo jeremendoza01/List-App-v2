@@ -1,0 +1,38 @@
+.input-add {
+    padding: 0.9em 2.5em;
+    border-radius: 5px;
+    border: 1px black solid;
+    font-family: monospace;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.boton {
+    margin-left: 20px;
+    width: 85px;
+    appearance: none;
+    background-color: #FFFFFF;
+    border-width: 0;
+    box-sizing: border-box;
+    border: black 1px solid;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: monospace, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 1em;
+    padding: 0.8em 1.5em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: opacity 300ms cubic-bezier(.694, 0, 0.335, 1), background-color 100ms cubic-bezier(.694, 0, 0.335, 1), color 100ms cubic-bezier(.694, 0, 0.335, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+
+}
